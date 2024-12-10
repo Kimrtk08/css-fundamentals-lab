@@ -20,3 +20,7 @@
 - git checkout main
 - git merge feature/main
 - git merge feature/css
+- git add .
+- git commit -m "comment"
+- git push
+- git push origin main
